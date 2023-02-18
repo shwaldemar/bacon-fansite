@@ -2,8 +2,19 @@ h1 {
   color: red;
   font-size: 200px;
 }
+img:hover {
+  background-color: goldenrod;
+}
 
-img {
-  height: 100px;
+.bacon {
+  background-color: green;
+}
+.broccoli {
   background-color: red;
+}
+.circular {
+  border-radius: 100%;
+}
+#heading {
+  color: aqua;
 }
